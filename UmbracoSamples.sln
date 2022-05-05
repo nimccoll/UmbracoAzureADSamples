@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UmbracoDemo", "UmbracoDemo\UmbracoDemo.csproj", "{D26E68A3-AC19-4D44-B256-0AC08738C813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco8", "Umbraco8\Umbraco8.csproj", "{4898552E-ADD7-4C7C-89C6-76A0A5F721AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco8AzSql", "Umbraco8AzSql\Umbraco8AzSql.csproj", "{3593695F-600D-45B4-A6C8-9B585F3E18A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UmbracoDemoAzSql", "UmbracoDemoAzSql\UmbracoDemoAzSql.csproj", "{A52BF1F0-8EB8-493B-B140-E61C4322C79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26E68A3-AC19-4D44-B256-0AC08738C813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26E68A3-AC19-4D44-B256-0AC08738C813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26E68A3-AC19-4D44-B256-0AC08738C813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26E68A3-AC19-4D44-B256-0AC08738C813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4898552E-ADD7-4C7C-89C6-76A0A5F721AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4898552E-ADD7-4C7C-89C6-76A0A5F721AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4898552E-ADD7-4C7C-89C6-76A0A5F721AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4898552E-ADD7-4C7C-89C6-76A0A5F721AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3593695F-600D-45B4-A6C8-9B585F3E18A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3593695F-600D-45B4-A6C8-9B585F3E18A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3593695F-600D-45B4-A6C8-9B585F3E18A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3593695F-600D-45B4-A6C8-9B585F3E18A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52BF1F0-8EB8-493B-B140-E61C4322C79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52BF1F0-8EB8-493B-B140-E61C4322C79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52BF1F0-8EB8-493B-B140-E61C4322C79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52BF1F0-8EB8-493B-B140-E61C4322C79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B330B2-EC9A-4AEB-8DA7-A43C696C60CF}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nimccoll.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Umbraco8\\Umbraco8.csproj
+		SccProjectName1 = Umbraco8
+		SccLocalPath1 = Umbraco8
+		SccProjectUniqueName2 = Umbraco8AzSql\\Umbraco8AzSql.csproj
+		SccProjectName2 = Umbraco8AzSql
+		SccLocalPath2 = Umbraco8AzSql
+		SccProjectUniqueName3 = UmbracoDemo\\UmbracoDemo.csproj
+		SccProjectName3 = UmbracoDemo
+		SccLocalPath3 = UmbracoDemo
+		SccProjectUniqueName4 = UmbracoDemoAzSql\\UmbracoDemoAzSql.csproj
+		SccProjectName4 = UmbracoDemoAzSql
+		SccLocalPath4 = UmbracoDemoAzSql
+	EndGlobalSection
+EndGlobal
